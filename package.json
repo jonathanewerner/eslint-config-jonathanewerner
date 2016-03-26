@@ -1,6 +1,5 @@
 {
   "name": "eslint-config-jonathanewerner",
-  "version": "0.0.0-semantically-released",
   "description": "ESLint rules according to jonathanewerner's personal preference",
   "main": "index.js",
   "scripts": {
