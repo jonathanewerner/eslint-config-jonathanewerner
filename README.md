@@ -1,5 +1,7 @@
 # eslint-config-jonathanewerner
 
+[![travis build](https://img.shields.io/travis/jonathanewerner/eslint-config-jonathanewerner.svg?style=flat-square)](https://travis-ci.org/jonathanewerner/eslint-config-jonathanewerner)
+
 ESLint rules for all of my personal projects. Feel free to use these conventions :-)
 
 
