@@ -1,6 +1,6 @@
 /* eslint-disable quote-props */
 module.exports = {
-  extends: 'airbnb',
+  extends: 'airbnb/base',
   rules: {
     'object-curly-spacing': [2, 'always'],
 
