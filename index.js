@@ -1,7 +1,5 @@
 /* eslint-disable quote-props */
 module.exports = {
-  parser: 'babel-eslint',
-  plugins: ['babel'],
   extends: 'airbnb',
   rules: {
     'object-curly-spacing': [2, 'always'],
@@ -34,9 +32,7 @@ module.exports = {
 
     'no-unused-expressions': 0,
 
-    'babel/object-shorthand': 2,
-
-    'babel/arrow-parens': 2,
+    'object-shorthand': 2,
 
     'block-spacing': [2, 'always'],
 

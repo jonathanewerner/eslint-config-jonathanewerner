@@ -31,13 +31,11 @@
     "eslint": "^2.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "6.0.0",
     "commitizen": "2.7.3",
     "cz-conventional-changelog": "1.1.5",
     "eslint": "2.5.1",
     "eslint-config-airbnb": "6.2.0",
     "eslint-find-new-rules": "1.2.0",
-    "eslint-plugin-babel": "3.1.0",
     "ghooks": "1.0.3",
     "semantic-release": "4.3.5",
     "validate-commit-msg": "2.4.1"
